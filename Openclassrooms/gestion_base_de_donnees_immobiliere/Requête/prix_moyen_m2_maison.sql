@@ -1,3 +1,5 @@
+/* Prix moyen du mètre carré d’une maison en Île-de-France. */
+
 Select Round(AVG(Valeur_fonciere/Surface_carrez),2) as "Prix moyen du m²", Nom_region as "Région"
 from vente
 join bien using(Id_bien)

@@ -1,3 +1,5 @@
+/*  Les moyennes de valeurs foncières pour le top 3 des communes des départements 6, 13, 33, 59 et 69 */
+
 With t1 as(
 Select Code_departement as Departement, Nom_commune as Commune, round(AVG(Valeur_fonciere),2) as Moyenne_valeur from vente
 join commune using(Id_codedep_codecommune)

@@ -1,3 +1,5 @@
+/* Taux d’évolution du nombre de ventes entre le premier et le second trimestre de 2020 */
+
 with 
 t1 as (
 select count(Id_vente) as t1

@@ -1,3 +1,5 @@
+/* Différence en pourcentage du prix au mètre carré entre un appartement de 2 pièces et un appartement de 3 pièces. */
+
 With t1 as(
 select AVG(Valeur_fonciere/Surface_carrez) as 2p from vente
 Join bien using(Id_bien)

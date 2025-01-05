@@ -1,3 +1,5 @@
+/* Liste des 10 appartements les plus chers avec la région et le nombre de mètres carrés. */
+
 Select code_departement, Valeur_fonciere as "Valeur Foncière", Surface_carrez as "Surface en m²", Nom_region as "Région"
 from vente
 join bien using(Id_bien)

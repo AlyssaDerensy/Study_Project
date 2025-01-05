@@ -1,3 +1,5 @@
+/* Liste des 10 départements où le prix du mètre carré est le plus élevé. */
+
 Select round(AVG(Valeur_fonciere/Surface_carrez),2) as Prix_mcarrez, Code_departement 
 from vente
 join bien using(Id_bien)

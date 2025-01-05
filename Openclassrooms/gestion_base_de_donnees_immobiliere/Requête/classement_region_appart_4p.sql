@@ -1,3 +1,5 @@
+/* Le classement des régions par rapport au prix au mètre carré des appartement de plus de 4 pièces. */
+
 Select round(AVG(Valeur_fonciere/Surface_carrez),2) as "Prix au m²", Nom_region as "Région " from vente
 Join bien using(Id_bien) 
 Join commune using(Id_codedep_codecommune)
