@@ -56,8 +56,8 @@ Bienvenue sur mon dépôt **Study Projects**, où vous trouverez une collection 
 
 ### Dossier PMN
 
-- **[`Pipeline Meteo`](./PMN/pipeline_meteo)**
-  Ce projet consiste à créer un pipeline de données météorologiques en utilisant les technologies suivantes :
+- **[`Pipeline Meteo`](./PMN/pipeline_meteo)** <br>
+  Ce projet consiste à créer un pipeline de données météorologiques et un tableau de bord.
     - Stockage des données météorologiques avec MONGODB.
     - Création de l'application, analyse et visualisation des données à l'aide d'un tableau de bord interactif avec DASH.
     - Conteneurisation et déploiement l'application avec Docker.
