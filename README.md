@@ -6,38 +6,38 @@ Bienvenue sur mon dépôt **Study Projects**, où vous trouverez une collection 
 
 ## Structure du Dépôt
 
-- **[`Projet 1 : Réalisez une étude de santé publique`](./analyse_sante_publique)**  
+- **[`Projet 1 : Réalisez une étude de santé publique`](./Openclassrooms/analyse_sante_publique)**  
   Ce projet consiste à analyser des données de santé publique en utilisant Python et des librairies comme pandas, seaborn, et matplotlib.  
   - Méthodologie d'exploration des données.  
   - Traitement des données avec pandas.  
   - Visualisations avec matplotlib et seaborn.  
   - Fichier : `notebook_etude_sante.ipynb` et `data_sante.csv`.
 
-- **[`Projet 2 : Optimisez la gestion des données d'une boutique`](./analyse_gestion_donnees_boutique)**  
+- **[`Projet 2 : Optimisez la gestion des données d'une boutique`](./Openclassrooms/analyse_gestion_donnees_boutique)**  
   Ce projet explore et analyse des données de ventes d'une boutique, en traitant les incohérences et en classifiant les données.  
   - Gestion des erreurs et incohérences dans les données.  
   - Analyse univariée et visualisation.  
   - Fichiers : `notebook_boutique.ipynb` et `donnees_boutique.csv`.
 
-- **[`Projet 3 : Analysez les ventes d'une librairie`](./analyse_ventes_librairie)**  
+- **[`Projet 3 : Analysez les ventes d'une librairie`](./Openclassrooms/analyse_ventes_librairie)**  
   Ce projet porte sur l'analyse des ventes d'une librairie, en incluant des tests statistiques, des analyses bivariées et des séries temporelles.  
   - Réalisation d'un test statistique.  
   - Analyse bivariée et analyse de séries temporelles.  
   - Fichiers : `notebook_ventes_librairie.ipynb` et `ventes_librairie.csv`.
 
-- **[`Projet 4 : Produisez une étude de marché`](./etude_marche)**  
+- **[`Projet 4 : Produisez une étude de marché`](./Openclassrooms/etude_marche)**  
   Ce projet met en œuvre des techniques de clustering pour analyser un jeu de données et explorer des variables.  
   - Clustering et exploration de données.  
   - Visualisation des résultats du clustering.  
   - Fichiers : `Notebook_preparation_nettoyage_analyse_exploratoire.ipynb`, `Notebook_clustering_visualisations.ipynb`, et `data_market.csv`.
 
-- **[`Projet 5 : Détectez des faux billets`](./detection_faux_billets)**  
+- **[`Projet 5 : Détectez des faux billets`](./Openclassrooms/detection_faux_billets)**  
   Ce projet applique des techniques d'analyse prédictive et de régression pour détecter des faux billets, en utilisant des modèles de classification et de régression logistique.  
   - Analyse prédictive et régression logistique et linéaire.  
   - Classification des faux billets.  
   - Fichiers : `notebook_faux_billets.ipynb` et `donnees_billets.csv`.
 
-- **[`Projet MySQL : Créez et utilisez une base de données immobilière`](./gestionçbaseçdeçdonnees_immobiliere)**  
+- **[`Projet MySQL : Créez et utilisez une base de données immobilière`](./Openclassrooms/gestionçbase_de_donnees_immobiliere)**  
   Ce projet porte sur la création d'une base de données immobilière, incluant des requêtes SQL et la gestion des données selon le RGPD.  
   - Création d'une base de données conforme aux normes RGPD.  
   - Requêtes SQL pour interroger la base de données.  
