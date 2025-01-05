@@ -58,10 +58,9 @@ Bienvenue sur mon dépôt **Study Projects**, où vous trouverez une collection 
 
 - **[`Pipeline Meteo`](./PMN/pipeline_meteo)**
 Ce projet consiste à créer un pipeline de données météorologiques en utilisant les technologies suivantes :
-- **Python**
-- **MongoDB** : Stockage des données météorologiques.
-- **Flask, Dash & Plotly** : Création de l'application, analyse et visualisation des données à l'aide d'un tableau de bord interactif.
-- **Docker** : Conteneurisation et déploiement l'application.
+    - Stockage des données météorologiques avec MONGODB.
+    - Création de l'application, analyse et visualisation des données à l'aide d'un tableau de bord interactif avec DASH.
+    - Conteneurisation et déploiement l'application avec Docker.
 
 L'objectif est de collecter des données météorologiques via l'API OpenWeather, de les stocker dans MongoDB, et de les rendre accessibles via une API REST avec des options de visualisation.
 ---
