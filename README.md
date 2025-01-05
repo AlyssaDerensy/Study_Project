@@ -77,7 +77,7 @@ Bienvenue sur mon dépôt **Study Projects**, où vous trouverez une collection 
 
 1. **Cloner le dépôt** :  
    ```bash
-   git clone https://github.com/votre-utilisateur/study_projects.git
+   git clone https://github.com/AlyssaDerensy/Study_Projects
 
 2. **Naviguer dans les projets** : Chaque dossier contient un fichier `README.md` détaillant le projet concerné, les étapes pour l'utiliser, et les dépendances nécessaires.
 
