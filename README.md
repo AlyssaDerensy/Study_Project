@@ -62,7 +62,7 @@ Bienvenue sur mon dépôt **Study Projects**, où vous trouverez une collection 
     - Création de l'application, analyse et visualisation des données à l'aide d'un tableau de bord interactif avec DASH.
     - Conteneurisation et déploiement l'application avec Docker.
 
-L'objectif est de collecter des données météorologiques via l'API OpenWeather, de les stocker dans MongoDB, et de les rendre accessibles via une API REST avec des options de visualisation.
+  L'objectif est de collecter des données météorologiques via l'API OpenWeather, de les stocker dans MongoDB, et de les rendre accessibles via    une API REST avec des options de visualisation.
 ---
 
 ## Objectifs du Dépôt
